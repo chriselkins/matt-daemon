@@ -21,7 +21,7 @@ import (
 	"gopkg.in/yaml.v3"
 )
 
-const appName = "file-move-trigger"
+const appName = "MATT-Daemon"
 
 type MoveTask struct {
 	Trigger   string   `yaml:"trigger"`
